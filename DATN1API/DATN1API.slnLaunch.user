@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DATN1API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\DATN1WEB\\DATN1WEB.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
