@@ -1,141 +1,135 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4762F5D9-CA0A-411F-A261-8FCB5174253E}|..\\DATN1WEB\\DATN1WEB.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4762F5D9-CA0A-411F-A261-8FCB5174253E}|..\\DATN1WEB\\DATN1WEB.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\User\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4762F5D9-CA0A-411F-A261-8FCB5174253E}|..\\DATN1WEB\\DATN1WEB.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\data\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\data\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:data\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\migrations\\datncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\migrations\\datncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:migrations\\datncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\datn1api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\datn1api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:datn1api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\migrations\\20250731153831_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\migrations\\20250731153831_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:migrations\\20250731153831_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\data\\datncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\data\\datncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:data\\datncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:data\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\shippingprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\shippingprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\shippingprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\viewmodels\\updateuserroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\viewmodels\\updateuserroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\viewmodels\\updateuserroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\models\\viewmodels\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\models\\viewmodels\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:models\\viewmodels\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_nhomhv\\datn1api\\migrations\\20250731153831_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|c:\\users\\asus\\source\\repos\\datn2_hyvong\\datn1api\\migrations\\20250731153831_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EE572B-2B47-4E70-900F-7AE8C23FA940}|DATN1API.csproj|solutionrelative:migrations\\20250731153831_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -266,6 +260,12 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\PromotionsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\User\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -275,7 +275,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -302,47 +302,53 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 76,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "..\\DATN1WEB\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "..\\DATN1WEB\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "..\\..\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T05:59:04.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T05:59:04.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "..\\DATN1WEB\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "..\\DATN1WEB\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\DATN2_NhomHV\\DATN1WEB\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-02T04:52:24.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 77,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\DATN1WEB\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\DATN2_NhomHV\\DATN1WEB\\Views\\User\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1WEB\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "..\\DATN1WEB\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\DATN2_NhomHV\\DATN1WEB\\Views\\User\\Index.cshtml",
               "ViewState": "AgIAAB0FAAAAAAAAAAAcwDcFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T04:38:08.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T04:38:08.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\AccountController.cs",
@@ -354,11 +360,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAANcAAAAAAAAAAAAjwN8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -366,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Account\\Login.cshtml",
@@ -378,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\User\\Index.cshtml",
@@ -386,16 +392,15 @@
               "RelativeToolTip": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\User\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T14:15:10.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T14:15:10.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\SessionExtensions.cs",
               "RelativeDocumentMoniker": "Data\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\SessionExtensions.cs",
               "RelativeToolTip": "Data\\SessionExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\Index.cshtml",
@@ -415,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Shared\\_Layout.cshtml",
@@ -427,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Delete.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Delete.cshtml",
@@ -439,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 43,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Create.cshtml",
@@ -451,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Index.cshtml",
@@ -463,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 45,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Details.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Details.cshtml",
@@ -475,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Edit.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Sizes\\Edit.cshtml",
@@ -487,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Create.cshtml",
@@ -499,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Delete.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Delete.cshtml",
@@ -511,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 49,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Details.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Details.cshtml",
@@ -523,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 50,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Edit.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Edit.cshtml",
@@ -535,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 51,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Colors\\Index.cshtml",
@@ -547,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 52,
               "Title": "ColorsController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\ColorsController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\ColorsController.cs",
@@ -559,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 53,
               "Title": "SizesController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\SizesController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\SizesController.cs",
@@ -571,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 54,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\HomeController.cs",
@@ -583,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 55,
               "Title": "SanPham.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\SanPham.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\SanPham.cshtml",
@@ -595,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 56,
               "Title": "DanhMuc.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\DanhMuc.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\DanhMuc.cshtml",
@@ -607,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 57,
               "Title": "DonHang.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\DonHang.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\DonHang.cshtml",
@@ -619,11 +624,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Color.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Color.cs",
               "RelativeDocumentMoniker": "Models\\Color.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Color.cs",
               "RelativeToolTip": "Models\\Color.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -631,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 58,
               "Title": "KhachHang.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\KhachHang.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\KhachHang.cshtml",
@@ -643,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 59,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Promotions\\Details.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Promotions\\Details.cshtml",
@@ -655,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 60,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Promotions\\Delete.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Promotions\\Delete.cshtml",
@@ -667,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 61,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Promotions\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Promotions\\Create.cshtml",
@@ -679,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 62,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Promotions\\Edit.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Promotions\\Edit.cshtml",
@@ -691,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 63,
               "Title": "MaGiamGia.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\MaGiamGia.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\MaGiamGia.cshtml",
@@ -703,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 64,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\Profile.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Admin\\Profile.cshtml",
@@ -715,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 65,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\AdminController.cs",
@@ -727,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 66,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Account\\Register.cshtml",
@@ -739,11 +744,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "DatnContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Migrations\\DatnContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Migrations\\DatnContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\DatnContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Migrations\\DatnContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Migrations\\DatnContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\DatnContextModelSnapshot.cs",
               "ViewState": "AgIAAIIDAAAAAAAAAAAywL0DAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -751,11 +756,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -763,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 67,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Program.cs",
@@ -775,11 +780,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "DATN1API.csproj",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\DATN1API.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\DATN1API.csproj",
               "RelativeDocumentMoniker": "DATN1API.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\DATN1API.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\DATN1API.csproj",
               "RelativeToolTip": "DATN1API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -787,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 68,
               "Title": "DATN1WEB.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\DATN1WEB.csproj",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\DATN1WEB.csproj",
@@ -799,11 +804,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\RegisterViewModel.cs",
               "RelativeToolTip": "Models\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -811,11 +816,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -823,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 69,
               "Title": "ChiTiet.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\User\\ChiTiet.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\User\\ChiTiet.cshtml",
@@ -835,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 70,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\_ViewStart.cshtml",
@@ -847,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 71,
               "Title": "LienHe.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\User\\LienHe.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\User\\LienHe.cshtml",
@@ -859,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 72,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\_ViewImports.cshtml",
@@ -871,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 73,
               "Title": "ConfirmEmailNotification.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Account\\ConfirmEmailNotification.cshtml",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Views\\Account\\ConfirmEmailNotification.cshtml",
@@ -883,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 74,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\UserController.cs",
@@ -895,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 75,
               "Title": "PromotionsController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\PromotionsController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN\\DATN1WEB\\Controllers\\PromotionsController.cs",
@@ -907,11 +912,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "20250731153831_InitialCreate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Migrations\\20250731153831_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Migrations\\20250731153831_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20250731153831_InitialCreate.Designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Migrations\\20250731153831_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Migrations\\20250731153831_InitialCreate.Designer.cs",
               "RelativeToolTip": "Migrations\\20250731153831_InitialCreate.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -919,11 +924,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "DatnContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\DatnContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\DatnContext.cs",
               "RelativeDocumentMoniker": "Data\\DatnContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\DatnContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\DatnContext.cs",
               "RelativeToolTip": "Data\\DatnContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -931,11 +936,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "SeedRoles.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\SeedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\SeedRoles.cs",
               "RelativeDocumentMoniker": "Data\\SeedRoles.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\SeedRoles.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\SeedRoles.cs",
               "RelativeToolTip": "Data\\SeedRoles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -943,11 +948,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "ApplicationRole.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\ApplicationRole.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationRole.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\ApplicationRole.cs",
               "RelativeToolTip": "Data\\ApplicationRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -955,11 +960,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "Promotion.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Promotion.cs",
               "RelativeDocumentMoniker": "Models\\Promotion.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Promotion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Promotion.cs",
               "RelativeToolTip": "Models\\Promotion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -967,11 +972,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "ProductVariant.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ProductVariant.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ProductVariant.cs",
               "RelativeDocumentMoniker": "Models\\ProductVariant.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ProductVariant.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ProductVariant.cs",
               "RelativeToolTip": "Models\\ProductVariant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -979,11 +984,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "ShippingProvider.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ShippingProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ShippingProvider.cs",
               "RelativeDocumentMoniker": "Models\\ShippingProvider.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ShippingProvider.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ShippingProvider.cs",
               "RelativeToolTip": "Models\\ShippingProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -991,11 +996,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "Size.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Size.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Size.cs",
               "RelativeDocumentMoniker": "Models\\Size.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Size.cs",
               "RelativeToolTip": "Models\\Size.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1003,11 +1008,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1015,11 +1020,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\OrderDetail.cs",
               "RelativeToolTip": "Models\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1027,11 +1032,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1039,11 +1044,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "News.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\News.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\News.cs",
               "RelativeDocumentMoniker": "Models\\News.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\News.cs",
               "RelativeToolTip": "Models\\News.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1051,11 +1056,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1063,11 +1068,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1075,11 +1080,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "CartDetail.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\CartDetail.cs",
               "RelativeDocumentMoniker": "Models\\CartDetail.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\CartDetail.cs",
               "RelativeToolTip": "Models\\CartDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1087,11 +1092,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Payment.cs",
               "RelativeToolTip": "Models\\Payment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1099,11 +1104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Cart.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\Cart.cs",
               "RelativeToolTip": "Models\\Cart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1111,11 +1116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\DashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\DashboardViewModel.cs",
               "RelativeToolTip": "Models\\ViewModels\\DashboardViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1123,11 +1128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "UpdateUserRoleViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\UpdateUserRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\UpdateUserRoleViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\UpdateUserRoleViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\UpdateUserRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\UpdateUserRoleViewModel.cs",
               "RelativeToolTip": "Models\\ViewModels\\UpdateUserRoleViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1135,11 +1140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Data\\ApplicationUser.cs",
               "RelativeToolTip": "Data\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1147,11 +1152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 30,
               "Title": "CreateRoleViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\CreateRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\CreateRoleViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\CreateRoleViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Models\\ViewModels\\CreateRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Models\\ViewModels\\CreateRoleViewModel.cs",
               "RelativeToolTip": "Models\\ViewModels\\CreateRoleViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1159,11 +1164,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1171,11 +1176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "20250731153831_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Migrations\\20250731153831_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Migrations\\20250731153831_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250731153831_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\Migrations\\20250731153831_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\Migrations\\20250731153831_InitialCreate.cs",
               "RelativeToolTip": "Migrations\\20250731153831_InitialCreate.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1183,7 +1188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "DATN1WEB.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN1WEB\\DATN1WEB.csproj",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN1WEB\\DATN1WEB.csproj",
@@ -1194,7 +1199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 34,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN1WEB\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN1WEB\\Controllers\\AdminController.cs",
@@ -1205,7 +1210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN1WEB\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN1WEB\\Program.cs",
@@ -1216,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN1WEB\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN1WEB\\appsettings.json",
@@ -1227,7 +1232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LamHoangMinhPC09339\\DATN1WEB\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "..\\..\\LamHoangMinhPC09339\\DATN1WEB\\Controllers\\AccountController.cs",

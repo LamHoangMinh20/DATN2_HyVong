@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DATN1API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cefa50a400dcc9e766d4846ff65f1ff5c5bdff3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7df6c46124b2b21d380c66cc05fd3502f5828638")]
 [assembly: System.Reflection.AssemblyProductAttribute("DATN1API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DATN1API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

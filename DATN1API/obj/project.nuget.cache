@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Vv2Y4iIRI8=",
+  "dgSpecHash": "2Ll+wrVQBfM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\DATN2_NhomHV\\DATN1API\\DATN1API.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\DATN2_HyVong\\DATN1API\\DATN1API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
